@@ -18,3 +18,4 @@ COPY . ./
 
 # start app
 CMD ["npm", "start"]
+CMD ["echo","Application is Ready to access UI http://localhost:3000"]
